@@ -1,0 +1,23 @@
+#social{
+    min-height: calc(10vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.Links {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:40rem;
+    
+}
+.link{
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin: 0 0.75rem;
+}
