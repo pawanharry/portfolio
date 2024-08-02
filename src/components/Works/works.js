@@ -5,7 +5,7 @@ import dental from '../../assets/dental.png';
 import fragrance from '../../assets/fragrance.png';
 import moneyVest from '../../assets/moneyVest.png';
 import music from '../../assets/music.png';
-import port from '../../assets/port.png';
+
 import weddingBuzz from '../../assets/weddingBuzz.png'
 
 
