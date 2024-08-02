@@ -7,7 +7,7 @@ import instagram from '../../assets/instagram.png';
 
 const social = () => {
   return (
-    <section className='social'>
+    <section className='social' id= 'social'>
     <div className='Links'>
 
                 <img src={behance} alt='behance' className='link'/>
